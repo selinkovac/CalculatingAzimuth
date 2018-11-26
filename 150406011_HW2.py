@@ -1,10 +1,4 @@
-def printName(name,lastname,number):
-    print "My name is", name+" "+lastname+ " "+number
-name="Selin"
-lastname="Kovac"
-number="150406011"
 
-printName(name,lastname,number)
 
 
 import math
